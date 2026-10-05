@@ -809,3 +809,11 @@ select.exam-select {
     transform: scale(0.92);
   }
 }
+@media (max-width: 480px) {
+  .start-tooltip {
+      width: 100%;
+      word-wrap: break-word;
+      text-wrap: wrap;
+      text-align: center;
+  }
+}
