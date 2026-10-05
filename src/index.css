@@ -815,5 +815,7 @@ select.exam-select {
       word-wrap: break-word;
       text-wrap: wrap;
       text-align: center;
+      font-size:16px !important;
+      background:#000 !important;
   }
 }
